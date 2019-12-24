@@ -90,7 +90,7 @@ label{
 
 .Front-page{
     min-height: 800px;
-    background-image: url(./Images/the-woods.jpg);
+    background-image: url(../Images/the-woods.jpg);
     overflow: hidden;
     background-position: center bottom;
     background-size: cover;
